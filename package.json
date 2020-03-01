@@ -1,0 +1,24 @@
+{
+  "name": "javascript-fundamentals",
+  "version": "1.0.0",
+  "description": "Javascript Fundamentals Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smashydesign/javascript-fundamentals.git"
+  },
+  "keywords": [
+    "javascript",
+    "traning",
+    "fundermentals"
+  ],
+  "author": "Shabith Ishan <shabith.ishan@gmail.com> (http://shabithishan.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smashydesign/javascript-fundermentals/issues"
+  },
+  "homepage": "https://github.com/smashydesign/javascript-fundermentals#readme"
+}
